@@ -1,5 +1,5 @@
 # WRR-Manuscript-Lake-Mendocino-EFO-Model
-Repository for the the WRR Manuscript titled "Forecast Informed Reservoir Operations Using Ensemble Streamflow Predictions for a Multi-Purpose Reservoir in Northern California"
+Repository for the the Water Resources Research Manuscript titled "Forecast Informed Reservoir Operations Using Ensemble Streamflow Predictions for a Multi-Purpose Reservoir in Northern California".
 The contents of this repository include code and input data sets developed in Matlab for the model developed for the study.
 
 The following is a short description of the contents of this repository.
